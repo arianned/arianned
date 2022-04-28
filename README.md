@@ -10,7 +10,7 @@ du texte...
 ![mappingGothic](http://imageresources.weebly.com/uploads/1/3/0/2/13020350/4079547_orig.jpg)  
 Découvrez Mapping Gothic : [Ici](https://mcid.mcah.columbia.edu/art-atlas/mapping-gothic)  
 
-- Mapping Titian   
+- _Mapping Titian_  
 du texte...  
 ![mappingTitian](https://hcommons.org/app/uploads/sites/1001756/2020/06/Mapping-Titian-1024x560.png)  
 Découvrez Mapping Titian : [Ici](www.mappingtitian.org/)  
