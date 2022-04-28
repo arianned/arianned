@@ -45,7 +45,10 @@ Une plateforme administrée par des professeurs du département d’histoire de 
 Découvrez Mapping Paintings : [Ici](http://www.mappingpaintings.org/)  
 
 - __Histoire du bâti Parisien__      
-du texte...  
+Contrairement au site web précédent, celui-ci propose une portée plus petite des cartographies. Des cartographies des périodes de construction du bâti parisien et de leurs monuments historiques de la capitale.   
+On peut naviguer sur une plateforme plus axée sur les différents bâtis parisiens. Il est possible de filtrer les immeubles selon leur date d’édification, obtenir des informations sur les architectes, les immeubles classés de ces monuments historiques.  
+
+Etienne Côme chercheur à l’Université Gustave Eiffel
 ![Coometie](https://static.data.gouv.fr/images/e4/bafd4e53c14e378b69a20ce41d23d0.png)  
 Découvrez Histoire du bâti Parisien : [Ici](https://www.comeetie.fr/)  
 
