@@ -10,12 +10,13 @@ du texte...
 ![mappingGothic](http://imageresources.weebly.com/uploads/1/3/0/2/13020350/4079547_orig.jpg)  
 Découvrez Mapping Gothic : [Ici](https://mcid.mcah.columbia.edu/art-atlas/mapping-gothic)  
 
-- _Mapping Titian_  
+- Mapping Titian  
 du texte...  
 ![mappingTitian](https://hcommons.org/app/uploads/sites/1001756/2020/06/Mapping-Titian-1024x560.png)  
 Découvrez Mapping Titian : [Ici](www.mappingtitian.org/)  
 
-- Mapping Paintings  
+-_Mapping Paintings_  
+
 La Mapping Paintings est une nouvelle version à grande échelle de Mapping Titian. Les données du site précédent sont également présentes sur Mapping Paintings. Les données sont alors continuellement affinées et modifiées au cours de l’utilisation lors des projets en cours. 
 Ce qui différencie cette plateforme aux autres est la facilité d’utilisation des bases de données. Une plateforme open source permet aux utilisateurs de personnaliser leurs propres projets de cartographie.
 
