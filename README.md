@@ -19,8 +19,16 @@ La cartographie est un outil qui permet la projection d'une surface, c’est-à-
 Voici une petite liste des plateformes qui proposent l’utilisation des cartographies, afin de mettre de l’avant de différents projets.
 
 - __Mapping Gothic__      
-du texte...   
-du texte...
+Une plateforme qui est spécialement désignée à documenter des monuments architecturaux de la France du XIIe siècle au le XIIIe. On peut explorer et naviguer dans les histoires de l’architecture gothique de la France et l’Europe.  
+D’abord, un menu avec les noms des églises Gothic situées en partie en France et en Europe classés par ordre alphabétique, les liens et les images nous mènent dans un nouvel onglet.   
+Celui-ci fait apparaître une galerie d’image du monument en question ainsi qu’un nouveau menu.  
+À l’aide des vues en panorama, il est possible d’explorer et d’étudier ces monuments en deux dimensions ,et ce grâce aux cartes interactives et aux images panoramiques. Composé de plus d’une centaine d’images panoramiques interactive, des plans, des images présentent le volume et l’espace accompagné de textes, notamment sur l’historique du bâtiment, des chronologies et la localisation. On montre les grandes structures des monuments, non seulement classées par dates de construction approximatives, on peut naviguer sur les pensées principales des lieux. 
+Un site pratique pour les historiens de l’art, mais aussi pour ceux qui s’intéressent à l’architecture. Effectivement, le site offre une grande quantité d’informations concernant les bases de données d’images, textes en lien avec ces monuments. Puis, les images interactives nous permettent de venir capter les moindres détails des églises.   
+Cette plateforme, offre aux utilisateurs de comprendre la relation de l’espace des monuments, de son territoire et les autres bâtiments traditionnellement. 
+Sans oublier, ce projet offre aussi une version open source du projet Mapping Gothic France, cela permet aussi de venir intervenir sur un aspect spécifique si l’on souhaite apporter des modifications pour améliorer et ajouter de l’information.
+Pour un historien de l’art ou même des étudiants qui effectue une recherche sur de tels monuments, cela est fortement utile et est d’une grande aide, car la base de données d’images et de texte est très riche et surtout facile d’accès.  
+Un projet mis en place par le professeur d’histoire de l’art et d’archéologie, Stephen Murray, à l’Université de Colombia.  
+
 ![mappingGothic](http://imageresources.weebly.com/uploads/1/3/0/2/13020350/4079547_orig.jpg)  
 Découvrez Mapping Gothic : [Ici](https://mcid.mcah.columbia.edu/art-atlas/mapping-gothic)  
 
