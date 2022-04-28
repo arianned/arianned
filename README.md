@@ -8,22 +8,22 @@ La cartographie est un outil qui permet la projection d'une surface, c’est-à-
 du texte...   
 du texte...
 ![mappingGothic](http://imageresources.weebly.com/uploads/1/3/0/2/13020350/4079547_orig.jpg)  
-Disponible sur le web à l’adresse : [https://mcid.mcah.columbia.edu/art-atlas/mapping-gothic](https://mcid.mcah.columbia.edu/art-atlas/mapping-gothicm)  
+Découvrez Mapping Gothic : [Ici](https://mcid.mcah.columbia.edu/art-atlas/mapping-gothicm)  
 
 - Mapping Titian   
 du texte...  
 ![mappingTitian](https://hcommons.org/app/uploads/sites/1001756/2020/06/Mapping-Titian-1024x560.png)  
-Disponible sur le web à l’adresse : [www.mappingtitian.org](www.mappingtitian.org)  
+Découvrez Mapping Titian : [Ici](www.mappingtitian.org)  
 
 - Mapping Painting  
 du texte...  
 ![MappingPainting](https://cdn.pastemagazine.com/www/articles/kahlo%20mapping%20main.jpg)  
-Disponible sur le web à l’adresse : [http://www.mappingpaintings.org/](http://www.mappingpaintings.org/)  
+Découvrez Mapping Painting : [Ici](http://www.mappingpaintings.org/)  
 
 - Histoire du bâti Parisien    
 du texte...  
 ![Coometie](https://static.data.gouv.fr/images/e4/bafd4e53c14e378b69a20ce41d23d0.png)  
-Disponible sur le web à l’adresse : [https://www.comeetie.fr/](https://www.comeetie.fr/)  
+Découvrez Histoire du bâti Parisien : [Ici](https://www.comeetie.fr/)  
 
 
 
