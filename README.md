@@ -4,18 +4,18 @@ La cartographie est un outil qui permet la projection d'une surface, c’est-à-
 
 
 ## Quelques plateformes et leurs cartographies à découvrir.
-- Mapping Gothic    
+-__Mapping Gothic__      
 du texte...   
 du texte...
 ![mappingGothic](http://imageresources.weebly.com/uploads/1/3/0/2/13020350/4079547_orig.jpg)  
 Découvrez Mapping Gothic : [Ici](https://mcid.mcah.columbia.edu/art-atlas/mapping-gothic)  
 
-- Mapping Titian  
+-__Mapping Titian__    
 du texte...  
 ![mappingTitian](https://hcommons.org/app/uploads/sites/1001756/2020/06/Mapping-Titian-1024x560.png)  
 Découvrez Mapping Titian : [Ici](www.mappingtitian.org/)  
 
--_Mapping Paintings_  
+-__Mapping Paintings__   
 
 La Mapping Paintings est une nouvelle version à grande échelle de Mapping Titian. Les données du site précédent sont également présentes sur Mapping Paintings. Les données sont alors continuellement affinées et modifiées au cours de l’utilisation lors des projets en cours. 
 Ce qui différencie cette plateforme aux autres est la facilité d’utilisation des bases de données. Une plateforme open source permet aux utilisateurs de personnaliser leurs propres projets de cartographie.
@@ -29,7 +29,7 @@ Une plateforme administrée par le professeur du département d’histoire de l�
 ![MappingPainting](https://cdn.pastemagazine.com/www/articles/kahlo%20mapping%20main.jpg)  
 Découvrez Mapping Paintings : [Ici](http://www.mappingpaintings.org/)  
 
-- Histoire du bâti Parisien    
+-__Histoire du bâti Parisien__      
 du texte...  
 ![Coometie](https://static.data.gouv.fr/images/e4/bafd4e53c14e378b69a20ce41d23d0.png)  
 Découvrez Histoire du bâti Parisien : [Ici](https://www.comeetie.fr/)  
