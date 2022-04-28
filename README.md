@@ -15,10 +15,18 @@ du texte...
 ![mappingTitian](https://hcommons.org/app/uploads/sites/1001756/2020/06/Mapping-Titian-1024x560.png)  
 Découvrez Mapping Titian : [Ici](www.mappingtitian.org/)  
 
-- Mapping Painting  
-du texte...  
+- Mapping Paintings  
+La Mapping Paintings est une nouvelle version à grande échelle de Mapping Titian. Les données du site précédent sont également présentes sur Mapping Paintings. Les données sont alors continuellement affinées et modifiées au cours de l’utilisation lors des projets en cours. 
+Ce qui différencie cette plateforme aux autres est la facilité d’utilisation des bases de données. Une plateforme open source permet aux utilisateurs de personnaliser leurs propres projets de cartographie.
+
+Il est possible de rassembler des collectes de données assemblées par de nombreux chercheurs, la plateforme facilite la réalisation des projets et des téléchargements de donnée. On peut non seulement ajouter des peintures, mais nous pouvons aussi inclure des dessins, des gravures et toute forme d’œuvre d’art. D’ailleurs, il est possible de rendre les projets publics ou privés, Mapping Paintings encourage aux utilisateurs de soumettre leurs données, afin qu’ils puissent faire partie de la bibliothèque globale, qui sera ensuite disponible pour tous les utilisateurs du site.
+
+Tout comme les plateformes précédentes, les bases de données sont faciles d’accès. Autant pour les œuvres célèbres que les moins célèbres les cartes présentent le voyage des œuvres à travers de nombreuses régions, les territoires et même les artistes et les propriétaires précédents de l’œuvre avant d’atteindre le musée.
+
+Une plateforme administrée par le professeur du département d’histoire de l’art et d’architecture de l’Université de Boston
+
 ![MappingPainting](https://cdn.pastemagazine.com/www/articles/kahlo%20mapping%20main.jpg)  
-Découvrez Mapping Painting : [Ici](http://www.mappingpaintings.org/)  
+Découvrez Mapping Paintings : [Ici](http://www.mappingpaintings.org/)  
 
 - Histoire du bâti Parisien    
 du texte...  
