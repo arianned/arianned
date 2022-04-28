@@ -36,6 +36,15 @@ Découvrez Histoire du bâti Parisien : [Ici](https://www.comeetie.fr/)
 
 
 
+Bref, on peut facilement voir en quoi ces cartographies peuvent être fructueuses pour les passionnés d’histoire de l’art. Ils amènent beaucoup de bénéfices aux recherches. 
+
+Bien que les bases de données puissent être parfois limitées, cela n’empêche pas que ces plateformes peuvent aussi se développer sans cesse, et ce grâce aux utilisateurs qui partagent et qui contribuent ensemble afin de peaufiner et perfectionner les données.
+De plus, ces sites internet avantageux. De temps à autre, voir l’emplacement de l’œuvre dans un territoire dans une carte peut éviter aux chercheurs la perte de temps. Les cartes peuvent avoir autant d’impact que la lecture d’un texte. Ils évitent aux utilisateurs de spéculer des faits et obtenir une réponse et leur permettre de trouver un article ou des bibliographies plus concrets liés à leurs sujets.
+
+
+
+
+
 ```
 du texte
 ```
