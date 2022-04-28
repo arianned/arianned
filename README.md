@@ -15,6 +15,8 @@ La cartographie est un outil qui permet la projection d'une surface, c’est-à-
 
 
 ## Quelques plateformes et leurs cartographies à découvrir.
+Voici une petite liste des plateformes qui proposent l’utilisation des cartographies, afin de mettre de l’avant de différents projets.
+
 - __Mapping Gothic__      
 du texte...   
 du texte...
