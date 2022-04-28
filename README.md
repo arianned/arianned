@@ -28,7 +28,10 @@ Un projet mis en place par le professeur d’histoire de l’art et d’archéol
 Découvrez Mapping Gothic : [Ici](https://mcid.mcah.columbia.edu/art-atlas/mapping-gothic)  
 
 - __Mapping Titian__    
-du texte...  
+Mapping Titian est une plateforme qui met en l’avant et qui propose une grande variété de collections de recherche en autre, une cartographie et des bases de données des œuvres du Titien. Le but de ce site web est de permettre à l’utilisateur d’en apprendre davantage sur la relation entre l’œuvre d’art et son contexte historique et ce nul autre que par les peintures faites par l’artiste vénitien de la Renaissance Titien. À partir d’un index facilement consultable, les utilisateurs peuvent créer des collections personnalisées de peintures et des cartes qui montrent le mouvement des images sur temps et espace.   
+Ce qui différencie cette plateforme aux autres est la facilité d’utilisation des bases de données. Un site convivial à utiliser. Une plateforme open source permet aux utilisateurs de personnaliser leurs propres projets de cartographie. C’est un site collaboratif qui permet de visualiser des cartes et apporter des changements pour contribuer aux recherches.
+
+Une plateforme administrée par le département d’histoire de l’art numérique à l’Université de Boston.
 ![mappingTitian](https://hcommons.org/app/uploads/sites/1001756/2020/06/Mapping-Titian-1024x560.png)  
 Découvrez Mapping Titian : [Ici](www.mappingtitian.org/)  
 
