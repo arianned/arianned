@@ -32,7 +32,6 @@ du texte...
 Découvrez Mapping Titian : [Ici](www.mappingtitian.org/)  
 
 - __Mapping Paintings__   
-
 La *Mapping Paintings* est une nouvelle version à grande échelle de *Mapping Titian*. Les données du site précédent sont également présentes sur *Mapping Paintings*. Les données sont alors continuellement affinées et modifiées au cours de l’utilisation lors des projets en cours. 
 Ce qui différencie cette plateforme aux autres est la facilité d’utilisation des bases de données. Une plateforme open source permet aux utilisateurs de personnaliser leurs propres projets de cartographie.
 
