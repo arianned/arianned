@@ -6,7 +6,8 @@ La cartographie est un outil qui permet la projection d'une surface, c’est-à-
 ## Quelques plateformes et leurs cartographies.
 - Mapping Gothic    
 du texte...  
-[https://mcid.mcah.columbia.edu/art-atlas/mapping-gothic](https://mcid.mcah.columbia.edu/art-atlas/mapping-gothicm)
+[https://mcid.mcah.columbia.edu/art-atlas/mapping-gothic](https://mcid.mcah.columbia.edu/art-atlas/mapping-gothicm)  
+![Mapping Gothic](http://imageresources.weebly.com/uploads/1/3/0/2/13020350/4079547_orig.jpg)
 - Mapping Titian   
 du texte...  
 [www.mappingtitian.org](www.mappingtitian.org)
