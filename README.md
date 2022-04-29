@@ -51,8 +51,9 @@ On peut naviguer sur une plateforme plus axée sur les différents bâtis parisi
 Etienne Côme chercheur à l’Université Gustave Eiffel
 ![Coometie](https://static.data.gouv.fr/images/e4/bafd4e53c14e378b69a20ce41d23d0.png)  
 Découvrez Histoire du bâti Parisien : [Ici](https://www.comeetie.fr/)    
-
-
+  
+  
+  
 Nous avons découvert qu’il existe des cartographies plus interactives que d’autres. Parfois ce sont des cartes ou des images en panorama. Plusieurs types d'informations différents peuvent être comparés et contrastés dans une cartographie, autant d’informations sur le territoire ou l’emplacement. À l'aide de la cartographie, on peut comparer les emplacements et se situer facilement dans un contexte historique. Une seule carte pourrait inclure plus d’informations ou des images et une telle carte aiderait les gens à déterminer le flux d’une œuvre à partir de symbole.
 
 Comme nous avons pu le voir à travers ces quatre plateformes, l’utilité de la cartographie peut différer de projet en projet. Selon un thème ou un sujet. La structure du site web est semblable et peut souvent permettre aux utilisateurs d’intervenir et raffiner des recherches. Ce qui permet toujours une couche d’interactions pour les usagers, collaborer avec les autres, mais aussi de venir enrichir le contenu de plusieurs informations sans arrêts qui leur sont avantageuses.
