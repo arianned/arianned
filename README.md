@@ -66,11 +66,13 @@ Comme nous avons pu le voir à travers ces quatre plateformes, l’utilité de l
 Bref, on peut facilement voir en quoi ces cartographies peuvent être fructueuses pour les passionnés d’histoire de l’art. Ils amènent beaucoup de bénéfices aux recherches. Bien que les bases de données puissent être parfois limitées, cela n’empêche pas que ces plateformes peuvent aussi se développer sans cesse, et ce grâce aux utilisateurs qui partagent et qui contribuent ensemble afin de peaufiner et perfectionner les données. De plus, ces sites internet avantageux. De temps à autre, voir l’emplacement de l’œuvre dans un territoire dans une carte peut éviter aux chercheurs la perte de temps. Les cartes peuvent avoir autant d’impact que la lecture d’un texte. Ils évitent aux utilisateurs de spéculer des faits et obtenir une réponse et leur permettre de trouver un article ou des bibliographies plus concrets liés à leurs sujets.
 
 
+Bibliographie
+- National Geographic. GIS (Geography Information System), [https://www.nationalgeographic.org/encyclopedia/geographic-information-system-gis/] (page consultée le 25 avril 2022)
+- Hackastory Tool. Hackastory Tools, [https://tools.hackastory.com/] (page consultée le 25 avril 2022)
+- Digital Resources Guide. Art History Digital Humanities Projects, [http://imageresources.weebly.com/] (page consultée le 25 avril 2022)
+- Jaskot, Paul «et coll.» (2015). A Research Based Model for Digital Mapping and Art History: 
+Notes from the Field, [En ligne], https://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=1055&context=artlas.( Page consultee le 25 avril 2022)
 
-
-```
-du texte
-```
 <!---
 arianned/arianned is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
