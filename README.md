@@ -68,6 +68,7 @@ Bibliographie
 - National Geographic. GIS (Geography Information System), [https://www.nationalgeographic.org/encyclopedia/geographic-information-system-gis/] (page consultée le 25 avril 2022)
 - Hackastory Tool. Hackastory Tools, [https://tools.hackastory.com/] (page consultée le 25 avril 2022)
 - Digital Resources Guide. Art History Digital Humanities Projects, [http://imageresources.weebly.com/] (page consultée le 25 avril 2022)
+- Whiteman, Stephan H. Digital Mapping and Art History: A Review of the Kress Summer Institute,  [https://tools.hackastory.com/] (page consulté le 26 avril 2022)
 - Jaskot, Paul «et coll.» (2015). A Research Based Model for Digital Mapping and Art History: 
 Notes from the Field, [En ligne], https://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=1055&context=artlas.( Page consultee le 25 avril 2022)
 
