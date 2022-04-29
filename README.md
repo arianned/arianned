@@ -14,6 +14,10 @@ La cartographie est un outil qui permet la projection d'une surface, c’est-à-
 -	Le nombre d’offres proposées par les fournisseurs
 -	Le flux
 
+Lorsqu’on imagine comme une carte sera utilisée, plusieurs éléments doivent être pris en considération.  En effet, quand ont créé nos propres cartographies, on nous donne aussi la chance d’apprendre à communiquer visuellement une histoire. Certes, les cartes doivent permettre aux usagers de participer activement, mais une cartographie a pour but de faciliter la recherche pour un autre individu, l’important est aussi l’ensemble des éléments visibles doivent être évident à première vue, sachant qu’il y a peu de texte qui accompagne les cartes parfois.  
+Notre rôle est de bien mettre en évidence les noms et les symboles afin qu’ils soient le plus lisibles possible pour nous orienter facilement, car il peut être facile de se perdre avec une carte. Lors de la conception d’une cartographie, on doit être en mesure de représenter visuellement des données spatiales tout au long de l’histoire. Pour les historiens de l’art, c’est une carte interactive qui favorise la recherche pour obtenir des chiffres, des pourcentages ou des données numériques. 
+
+
 
 ## Quelques plateformes et leurs cartographies à découvrir.
 Voici une petite liste des plateformes qui proposent l’utilisation des cartographies, afin de mettre de l’avant de différents projets.
